@@ -1,6 +1,6 @@
 - 👋 Hi, I’m A Rajaguhan
--        SIET College
--        B.Tech AI&ML II Year
+-            SIET College
+-            B.Tech AI&ML II Year
 
 - 👀 I’m interested in ...
 -         ==>Python Programming
