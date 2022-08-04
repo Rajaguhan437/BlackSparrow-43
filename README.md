@@ -13,9 +13,9 @@
 -        [+]Machine Learning
          
 - 📚 Has revelant Skills on ...
-         [+]Python
-         [+]#C
-         [+]HTML,CSS,JavaScript
+-        [+]Python
+-        [+]#C
+-        [+]HTML,CSS,JavaScript
          
 - 💞️ I’m looking to collaborate on ...
 -         --Any Projects in interested fields
