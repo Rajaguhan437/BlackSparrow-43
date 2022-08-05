@@ -1,4 +1,4 @@
-- 👋 Hi, I’m A Rajaguhan
+- 👋 Hi, I’m BlackSparrow
 -            SIET College
 -            B.Tech AI&ML II Year
 
@@ -9,12 +9,10 @@
                   
 - 🌱 I’m currently learning ...
 -        [+]Python Programming
--        [+]Deep Learning
 -        [+]Machine Learning
          
 - 📚 Has revelant Skills on ...
 -        [+]Python
--        [+]#C
 -        [+]HTML,CSS,JavaScript
          
 - 💞️ I’m looking to collaborate on ...
@@ -24,7 +22,6 @@
 -         ==>sparrowblack437@gmail.com
 -         ==>@ARajaguhan
 
-- Always, Happy to Learn!!!...
          
 <!---
 BlackSparrow-43/BlackSparrow-43 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
