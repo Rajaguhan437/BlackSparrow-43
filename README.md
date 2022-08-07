@@ -6,10 +6,6 @@
 -         ==>Python Programming
 -         ==>AI, ML, DL & NLP
 -         ==>Cyber Security
-                  
-- 🌱 I’m currently learning ...
--        [+]Python Programming
--        [+]Machine Learning
          
 - 📚 Has revelant Skills on ...
 -        [+]Python
