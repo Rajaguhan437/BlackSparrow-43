@@ -4,8 +4,7 @@
 
 - 👀 I’m interested in ...
 -         ==>Python Programming
--         ==>AI, ML, DL & NLP
--         ==>Cyber Security
+-         ==>AI & Deep Reinforcement Learning
          
 - 📚 Has revelant Skills on ...
 -        [+]Python
