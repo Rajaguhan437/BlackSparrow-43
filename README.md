@@ -1,4 +1,4 @@
-- 👋 Hi, I’m BlackSparrow
+- 👋 Hi, I’m A Rajaguhan
 -            SIET College
 -            B.Tech AI&ML II Year
 
@@ -15,7 +15,7 @@
 -         --Any Projects in interested fields
          
 - 📫 How to reach me ..
--         ==>sparrowblack437@gmail.com
+-         ==>rajaguhan437@gmail.com
 -         ==>@ARajaguhan
 
          
