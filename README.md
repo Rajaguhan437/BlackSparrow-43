@@ -1,23 +1,21 @@
 - 👋 Hi, I’m A Rajaguhan
 -            SIET College
--            B.Tech AI&ML III Year
+-            B.Tech AI&ML IV Year
 
   
 - 👀 I’m interested in ...
 -         ==> Python Programming
--         ==> Deep Reinforcement Learning
+-         ==> Deep Learning / Machine Learning
 -         ==> Generative AI
--         ==> Large Language Models
--         ==> Building Autonomous Systems/Vehicles
 
-  
+
 - 📚 Has revelant Skills on ...
 -        [+]Python
 -        [+]HTML,CSS,JavaScript
 -        [+]Reinforcement Learning
--        [+]Deep Learning            
+-        [+]Deep Learning / Machine Learning            
 
-           
+
 - 💞️ I’m looking to collaborate on ...
 -         --Any Projects in interested fields
 
